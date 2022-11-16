@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "user": "Claudia",
+      "event": "Holiday",
+      "datestart": 1665385200,
+      "dateend": 1665417600
+    },
+    {
+      "id": 1,
+      "user": "Claudia",
+      "event": "Holiday",
+      "datestart": 1665471600,
+      "dateend": 1665504000
+    },
+    {
+      "id": 1,
+      "user": "Claudia",
+      "event": "Holiday",
+      "datestart": 1665644400,
+      "dateend": 1665676800
+    },
+    {
+      "id": 1,
+      "user": "Claudia",
+      "event": "Holiday",
+      "datestart": 1665730800,
+      "dateend": 1665763200
+    },
+    {
+      "id": 1,
+      "user": "All",
+      "event": "Bank Holiday",
+      "datestart": 1665558000,
+      "dateend": 1665590400
+    },
+    {
+      "id": 1,
+      "user": "Augusto",
+      "event": "Medical leave",
+      "datestart": 1664780400,
+      "dateend": 1664812800
+    },
+    {
+      "id": 1,
+      "user": "Livia",
+      "event": "Enter later",
+      "datestart": 1666861200,
+      "dateend": 1666861200
+    },
+    {
+      "id": 1,
+      "user": "Antonio",
+      "event": "Permission",
+      "datestart": 1666335600,
+      "dateend": 1666353600
+    },
+    {
+      "id": 1,
+      "user": "Petronilla",
+      "event": "Remote working",
+      "datestart": 1667548800,
+      "dateend": 1667570400
+    }
+  ]
+  
