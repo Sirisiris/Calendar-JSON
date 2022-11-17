@@ -118,18 +118,18 @@ font-weight: 800;
   line-height: 2;
 }
 .calendar__date {
-  background-color: rgba(203, 185, 192, 0.3);
+  background-color: rgba(243, 235, 238, 0.3);
   border-radius: 4px;
   text-align: left;
   padding: 0.3rem;
   height: 6rem;
-  transition: 1s;
+  transition: 0.7s;
 }
 
 .calendar__date:hover{
   font-weight: 800;
-  background-color: rgba(255, 255, 255, 0.4);
-  transition: 1s;
+  background-color: rgba(255, 255, 255, 0.5);
+  transition: 0.6s;
 }
 
 .calendar__last-days {
