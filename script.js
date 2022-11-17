@@ -149,12 +149,13 @@ let monthNames = [
   
       //pinta las fechas formateadas
       console.log(humanDateFormat) 
+      return humanDateFormat
     }
     
     function printEvents(events) {
     
       events.forEach((item) => {
-        const row = document.createElement("tr");
+        const row = document.querySelector(".calendar__event");
         row.innerHTML = `
         <td>${item.user}</td>
         <td>${item.event}</td>
@@ -162,4 +163,5 @@ let monthNames = [
         <td>${convertirUnixAHora(item.dateend)}</td>
         `
         calendar.appendChild(row)
-      })}
+
+    })}
